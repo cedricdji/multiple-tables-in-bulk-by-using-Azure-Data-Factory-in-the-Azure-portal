@@ -1,0 +1,2 @@
+# multiple-tables-in-bulk-by-using-Azure-Data-Factory-in-the-Azure-portal
+PrThis tutorial demonstrates copying a number of tables from Azure SQL Database to Azure Synapse Analytics. You can apply the same pattern in other copy scenarios as well. For example, copying tables from SQL Server/Oracle to Azure SQL Database/Azure Synapse Analytics /Azure Blob, copying different paths from Blob to Azure SQL Database tables.
